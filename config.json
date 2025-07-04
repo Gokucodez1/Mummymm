@@ -1,0 +1,9 @@
+{
+  "bot_token": "",
+  "owner_id": "",
+  "category_id": "",
+  "rate_channel_id": "",
+  "deal_timeout": 3600,
+  "min_amount": 0.1,
+  "exchange_rate_api": "https://api.coingecko.com/api/v3/simple/price?ids=litecoin&vs_currencies=usd"
+}
